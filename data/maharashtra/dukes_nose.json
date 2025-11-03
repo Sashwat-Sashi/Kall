@@ -1,0 +1,21 @@
+{
+  "name": "Duke's Nose",
+  "location": {
+    "state": "Maharashtra",
+    "nearest_city": "Lonavala",
+    "latitude": 18.7801,
+    "longitude": 73.3766
+  },
+  "style": ["Trad", "Sport"],
+  "routes": [
+    {
+      "name": "Eagle's Nest",
+      "grade": "5.9",
+      "length_m": 80,
+      "pitches": 2,
+      "bolts": "Partially bolted"
+    }
+  ],
+  "access": "Short hike from Kurvande village. Ask locals for the trail to Nagphani peak.",
+  "notes": "Classic climb near Mumbai. Scenic views, exposure, and good beginner trad experience."
+}
