@@ -146,3 +146,25 @@ footer {
   margin-top: 1.5rem;
   box-shadow: 0 0 12px rgba(0, 0, 0, 0.4);
 }
+
+/* Language Toggle */
+.lang-toggle {
+  margin-left: 1rem;
+}
+
+.lang-toggle button {
+  background: var(--accent);
+  border: none;
+  color: white;
+  font-family: var(--font-body);
+  font-weight: 600;
+  border-radius: 6px;
+  cursor: pointer;
+  padding: 0.4rem 0.8rem;
+  transition: background 0.3s ease;
+}
+
+.lang-toggle button:hover {
+  background: #ff5b2e;
+}
+
